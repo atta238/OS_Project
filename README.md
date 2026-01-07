@@ -17,7 +17,7 @@ The project aims to develop a system that manages memory, schedules processes, a
 
 # Final Grades
 
-<img src="https://github.com/user-attachments/assets/52c1c05b-9fea-4551-bd1a-67798bfedf3e" width="500" alt="Grades of OS Project">
+<img src="https://github.com/user-attachments/assets/ba7008d2-eed1-4db9-8899-a8e9afed2932" width="500" alt="Grades of OS Project">
 
 
 # Team Members
